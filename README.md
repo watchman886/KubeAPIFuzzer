@@ -1,4 +1,4 @@
-# k-fuzz
+# KubeAPIFuzzer
 
 The aim of this repository is to provide a efficient way to fuzz kubernetes REST API.
 
