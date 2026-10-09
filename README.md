@@ -1,6 +1,6 @@
 # KubeAPIFuzzer
 
-The aim of this repository is to provide a efficient way to fuzz kubernetes REST API.
+The aim of this repository is to provide a efficient way to fuzz kubernetes REST APIs.
 
 ## Env Config
 
